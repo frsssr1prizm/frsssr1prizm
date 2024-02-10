@@ -1,0 +1,22 @@
+#EXTM3U
+#EXTINF:0 tvg-rec="0",A-MEDIA HIT
+#EXTGRP:КИНО!СЕРИАЛЫ
+http://81.23.189.172:4022/udp/234.0.0.169:2000
+#EXTINF:0 tvg-rec="0",A-MEDIA PREMIUM
+#EXTGRP:КИНО!СЕРИАЛЫ
+http://81.23.189.172:4022/udp/234.0.0.209:2000
+#EXTINF:0 tvg-rec="0",A1 HD [6]
+#EXTGRP:Кино
+http://srv1.roshen.live/zoWBnBrGXz/mpegts?token=kQPaKrs0ubQfUE3r
+#EXTINF:0 tvg-rec="0",A2 HD [1]
+#EXTGRP:Кіноканали
+http://31.148.48.15/A2/index.m3u8
+
+#EXTINF:0 tvg-rec="0",A21 Network Live 24 HD
+#EXTGRP:спорт
+http://mk3gi6qohdjrudj.russtv.net/iptv/2YYD3945CN8K86/20160/index.m3u8
+
+#EXTINF:0 tvg-rec="0",AIVA TV HD
+#EXTGRP:музыка
+http://mk3gi6qohdjrudj.russtv.net/iptv/2YYD3945CN8K86/2156/index.m3u8
+
