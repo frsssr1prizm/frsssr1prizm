@@ -1,0 +1,130 @@
+#EXTM3U
+#EXTINF:0 tvg-rec="0",Остросюжетное HD [1]
+#EXTGRP: Фильмы
+http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
+#EXTINF:0 tvg-rec="0",BCU Cosmo HD [16]
+#EXTGRP: Фильмы
+http://ch01.spr24.net/20845/mpegts?token=tkwp6ncUx4cefr
+#EXTINF:0 tvg-rec="0",BCU Fantastic HD [19]
+#EXTGRP: Фильмы
+http://ch01.spr24.net/20814/mpegts?token=tkwp6ncUx4cefr
+#EXTINF:0 tvg-rec="0",Bollywood HD [47]
+#EXTGRP: Фильмы
+http://bl2.provds.pw/~109e1a3c05fcad5b22d13b9453dc0db5122/11052/
+#EXTINF:0 tvg-rec="0",Dosug Fantastic HD
+#EXTGRP: Фильмы
+http://malczhtb.tvclub.xyz/iptv/EQEC45L685X9Z5/14210/index.m3u8
+
+
+#EXTINF:0 tvg-rec="0",555 Hunt Fishing TV HD
+#EXTGRP: TV
+http://193.169.178.29:8081/podsekaiTV/chanelHD1080/playlist.m3u8
+
+#EXTINF:0 tvg-rec="0",Amedia 1 HD [5]
+#EXTGRP: Amedia
+http://31.148.48.15/A1/index.m3u8?token=test
+#EXTINF:0 tvg-rec="0",Amedia Premium HD [24]
+#EXTGRP: Amedia
+http://31.148.48.15/Amedia_Premium_HD/index.m3u8
+
+#EXTINF:0 tvg-rec="0",Aiva HD [28]
+#EXTGRP: Музыка
+http://bl2.provds.pw/~109e1a3c05fcad5b22d13b9453dc0db5122/94490/
+
+#EXTINF:0 tvg-rec="0",? HD GE [4]
+#EXTGRP: Музыка
+http://5ghk6txq.akciatv.ru/iptv/9TET59XVEVAK5U/19338/index.m3u8
+#EXTINF:0 tvg-rec="0",BACKUSTV MUSIC HD
+#EXTGRP: Музыка
+http://dmi3y-tv.ru/hls/CH_BACKUSTVMUSICHD.m3u8
+#EXTINF:0 tvg-rec="0",Baraza Music TV HD
+#EXTGRP: Музыка
+http://eco.streams.ovh:1935/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8
+#EXTINF:0 tvg-rec="0",BG Music HD
+#EXTGRP: Музыка
+http://ru.seetv.cc/play/6862/E5E8424564E73AE/video.m3u8
+
+#EXTINF:0 tvg-rec="0",Discovery Channel [37]
+#EXTGRP: Познавательное
+http://eqatmiyg.megogo.xyz/iptv/VEXVELA6Z7PXH6/227/index.m3u8
+#EXTINF:0 tvg-rec="0",Animal Planet HD [12]
+#EXTGRP: Познавательное
+http://46.48.96.88:81/udp/239.255.2.149:1234?q=zi/
+#EXTINF:0 tvg-rec="0",Каббала ТВ-66 канал
+#EXTGRP: Познавательное
+http://edge3.uk.kab.tv/live/tv66-rus-high/chunks.m3u8
+
+#EXTINF:0 tvg-rec="0",Brics TV HD (ENG субт.)
+#EXTGRP: Вести
+http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
+
+#EXTINF:0 tvg-rec="0",Bloomberg TV HD
+#EXTGRP: нерус Финансы
+https://dai.google.com/linear/hls/event/BVlOmFGaTi6NpchccR14yA/master.m3u8
+
+#EXTINF:0 tvg-rec="0",AT&T SPORTSNET HD [1]
+#EXTGRP: нерус Спорт
+http://rhsbjv7k.tvclub.xyz/iptv/69RHC6FBWKWSC2/11107/index.m3u8
+#EXTINF:0 tvg-rec="0",Max Sport 1 HD [1]
+#EXTGRP: нерус Спорт
+http://ru.seetv.cc/play/6875/E5E8424564E73AE/video.m3u8
+#EXTINF:0 tvg-rec="0",Max Sport 2 HD
+#EXTGRP: нерус Спорт
+http://ru.seetv.cc/play/6876/E5E8424564E73AE/video.m3u8
+#EXTINF:0 tvg-rec="0",Max Sport 3 HD
+#EXTGRP: нерус Спорт
+http://ru.seetv.cc/play/6877/E5E8424564E73AE/video.m3u8
+#EXTINF:0 tvg-rec="0",Max Sport 4 HD
+#EXTGRP: нерус Спорт
+http://ru.seetv.cc/play/6878/E5E8424564E73AE/video.m3u8
+#EXTINF:0 tvg-rec="0",Телевизия Шумен HD
+#EXTGRP: нерус Спорт
+http://ru.seetv.cc/play/6846/E5E8424564E73AE/video.m3u8
+#EXTINF:0 tvg-rec="0",Das Sport1 HD
+#EXTGRP: нерус Спорт
+http://bl2.provds.pw/~109e1a3c05fcad5b22d13b9453dc0db5122/161606/
+
+#EXTINF:0 tvg-rec="0",СТВ HD Белорусь
+#EXTGRP: Иное
+http://ru.seetv.cc/play/3792/E5E8424564E73AE/video.m3u8
+
+#EXTINF:0 tvg-rec="0",Fashion TV UHD [2]
+#EXTGRP: нерус Смотреть
+http://fash2043.cloudycdn.services/slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
+#EXTINF:0 tvg-rec="0",Praha TV HD
+#EXTGRP: нерус Смотреть
+http://stream.polar.cz:1935/prahatv/prahatvlive-1/playlist.m3u8
+#EXTINF:0 tvg-rec="0",RFO TV HD
+#EXTGRP: нерус Смотреть
+http://stream01.stream.welocal.world/stream/fhd-rfo_66876/stream_1080p/playlist.m3u8
+#EXTINF:0 tvg-rec="0",Tagesschau 24 HD
+#EXTGRP: нерус Смотреть
+https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master-720p-3328.m3u8
+#EXTINF:0 tvg-rec="0",This is Bulgaria HD [1]
+#EXTGRP: нерус Смотреть
+https://streamer103.neterra.tv/thisisbulgaria/thisisbulgaria_HQ.m3u8
+#EXTINF:0 tvg-rec="0",Deluxe Lounge HD ! Alemanha
+#EXTGRP: нерус Смотреть
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/ec8e5c43-6fae-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+#EXTINF:0 tvg-rec="0",Discovery Science HD [33]
+#EXTGRP: нерус Смотреть
+http://bl2.provds.pw/~109e1a3c05fcad5b22d13b9453dc0db5122/59942/
+
+#EXTINF:0 tvg-rec="0",Adult IPTV Anal (18+)
+#EXTGRP: TV 18+
+http://live.redtraffic.xyz/anal.m3u8
+
+#EXTINF:0 tvg-rec="0",Adult IPTV Blonde (18+)
+#EXTGRP: TV 18+
+http://live.redtraffic.xyz/blonde.m3u8
+
+#EXTINF:0 tvg-rec="0",Adult IPTV Brunette (18+)
+#EXTGRP: TV 18+
+http://live.redtraffic.xyz/brunette.m3u8
+
+#EXTINF:0 tvg-rec="0",Adult IPTV Livecams (18+)
+#EXTGRP: TV 18+
+http://live.redtraffic.xyz/livecams.m3u8
+#EXTINF:0 tvg-rec="0",MyCamTV Big Ass
+#EXTGRP: TV 18+
+http://live.mycamtv.com/defstream.m3u8
